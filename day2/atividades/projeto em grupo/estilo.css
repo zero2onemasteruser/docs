@@ -1,0 +1,33 @@
+body{
+    background: #f2f2f2;
+    font-size: 10px;
+    font-family: monospace
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase
+}
+
+img {
+    width: 120px;
+    z-index: 1;
+    position: absolute;
+    right: 0;
+    top: 0px;
+}
+
+div {
+    z-index:999;
+    position: relative;
+    width: 300px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 20px;  
+    border-radius: 10px;  
+    margin-bottom: 20px;
+}
+
+.titulo {
+    color: blue;
+}
